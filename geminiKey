@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "campingmaster-458606",
+  "private_key_id": "452a0ae8957641b72a1ee2bde6918c477fce37bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuWPBPTFR375Kt\nuDziZNHE6ei5Okpwn3hr1vTpobxQTytO0ysSgyQUMGY97/839JaLAWBWsVFyroRl\n5u1S1BsDZ/94kJTBqEp/jqWkFDM/OzHuIFZbJEYOUizpzK6jR3b7xVl2CeYmtBAq\nq1Y/uj7+rCoS74KHAlaf6aX4wFYkdy2pPQWMeRP1Z8a7+eeyvAnhsDz+8l78w2cU\naNst501Wyq2kKK4yAB0zXjjM1SqVjK8WdRFqGAIpQ0kiFnOtQdcs89wJhL31hKTg\n04c6GYLbYMzC2AZC8ka1HX38n4a8RGgFLzhG3592jASbhxXKcJfxJR4WD5CHhrP5\nj8CL9tVLAgMBAAECgf9Uwf9XdmcOcyOtIftgFF2JRf86mNYjMB3POA41hlPu5XbL\nT67989pnx6thKzRE/6MY2Xsq2Kwc/UYacp3WGupM1OUXzwNrIh+hKUOMDHSAYC9x\nfS/EB/WputUDjpVX4sNSXOR+CZfCft50a5FrOzc2Otl/Q9mN933IQBQqCJzveadJ\nlvSn2M1OnQ8on4LcJ0PImsqgDjJHtiWKOaND0RPfBrgX++7ua+vyilqIWz+RF5Oy\n2jhxQW1lgkVN+pXMOt7N+c1xvWtpVlGA1ORGCQI+qlobQ/U7w58qSqeTP2DdIspL\naJvk7MGKEaidRxHpKKWn2UAz3XivulTB10z6NgkCgYEA4ihVmNx1gr5zPnBage9Y\n3KISse7qSiI3GfbNwTFOC/rqMtVw6E6PqZNS08cxylYOj183vX3AQEvmbhFr6R/q\nOPvOX2ARFDT1W7jBeXZ334pkocd5/I5831Ad+7tejih/lmjUoU3M7DVRwavRH+Z6\naq1TQ4yWpMN61lTL24N/iL8CgYEAxVpxfWMAwYRz31gOl6ILN9mYnskZpvTqytJq\nfZVgQ68QciVY6NgM5a7NQMf22oP7TcYQbX8XgtBnc3peGVEiodxhAy8pVLsTfOi+\nZr7re3iM/FPbMaGVHgy58TtIu8LE+C6NFzECZyB9LGZmA4cdO9vDpbK/V3bHwzbU\nmvtCKnUCgYEAgP7qm+8bY8DHsRSau0RPFkGnkjApGLHdZgTdJVW/I5wx217dMNQm\no12xv7P9lWBym5p/C6lfcA0a2Ss8ttMKYQhXlRURiMoQLQn76REGnM2uSoyh6slH\nNoTXJU+hRkqZQ6x1o6/hs9VR1brv5Fcs+g300TGudzo8pWXmhUXDB7cCgYEAr0b6\nkOBDJZxbxTtSCn5S9FF/6Va2P8A6X9St28e1baeoNZjR9EseeUfc5/IxXjXmFlcY\n9AbyfK5XkwpVVKro1VUDnG5giO52CnQz1tEuF8Ujgl9/x/64j63B32xF1uzPP5Uo\nnjZa6fjC85ImfG+eGTG//ARbSHUoSksCXHtXcpkCgYEAlm/Fkby2ReQYFcm/Q0fb\nQRozxoqgYSgIedw8CzyMqjucPl+xRuBW1bCUn4ylKuZFShElucZIk816eifD7hbz\n/DEzBIJkzuLO5YBsclUDr9KsTZnF4BwUQJXIekly50pBGftebDjYNrHl1OpJlEtA\nvGk4YgkxguW5WD7ZHj52mCA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "administrator@campingmaster-458606.iam.gserviceaccount.com",
+  "client_id": "114468145832486299067",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/administrator%40campingmaster-458606.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
